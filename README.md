@@ -19,4 +19,4 @@ I am a MSc Data Science student with a solid foundation in pharmacy. I am passio
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/ayomidebammeke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/ayomide-bammeke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
