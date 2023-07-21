@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Student | Pharmacist
 ---------------------------------
 
-I am a MSc Data Science student with a solid foundation in pharmacy. I am passionate about using my skills to leverage the power of predictive science in healthcare. I have mostly enjoyed working on projects that required machine learning skills.
+I am an MSc Data Science student with a solid foundation in pharmacy. I am passionate about using my skills to leverage the power of predictive science in healthcare. I have mostly enjoyed working on projects that required machine learning skills.
 
-* 🌍  I'm based in United Kingdom
+* 🌍  I'm based in the United Kingdom
 * 🧠  I'm learning Microsoft Power BI
-* ⚡  I enjoy trying different restaurant.. I believe that food is life!
+* ⚡  I enjoy trying different restaurants... I believe that food is life!
 
 ### Skills
 
