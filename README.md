@@ -7,8 +7,8 @@
 
 I’m a data scientist with experience in turning complex data into actionable insights, particularly in healthcare analytics. I’m highly skilled in data analytics using Python, SQL, R, and data visualization tools like Power BI. My expertise also includes developing APIs with Flask for seamless data integration, and leveraging TensorFlow to build and optimize machine learning models. I’m passionate about solving data challenges and applying innovative, data-driven solutions.
 
-- 🌱 I’m currently completing the **Power Platform certification through the PowerUp Program**.
-- 💬 Ask me about **machine learning techniques**—I love diving into data problems and discussing solutions!
+- 🌱 I’m currently preparing for **Microsoft Azure Data Scientist Associate** exam.
+- 💬 Ask me about **machine learning techniques**!
 - ⚡ Fun fact: **I’m a museum enthusiast and have visited 12 museums across 4 countries**.
 
 ## Connect with me:
